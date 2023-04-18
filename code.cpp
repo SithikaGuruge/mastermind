@@ -93,7 +93,7 @@ public:
     void logout(){
         cout<<"Log out"<<endl;
     }
-    void exti(){
+    void exit(){
         cout<<"Exit"<<endl;
     }
 };
